@@ -9,6 +9,10 @@ The code contained herein contains duplication, inconsistencies, implements bad 
 * If you are interviewing for a C# position, work with/reference the C# folder, otherwise reference the PHP folder
 * Send a link to your forked repository, and your CV to jobs@realmdigital.co.za
 
+### Extra Notes ###
+
+* Please note the endpoint - http://192.168.0.241/eanlist?type=Web - is not a real endpoint (there is a representation of what this data might look like in the `mock-data` folder
+
 ### Contribution guidelines ###
 
 * Never clone this repository unless the intention is to improve or update it with changes that will be used in all future projects
