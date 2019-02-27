@@ -17,3 +17,7 @@ The code contained herein contains duplication, inconsistencies, implements bad 
 
 * Never clone this repository unless the intention is to improve or update it with changes that will be used in all future projects
 * By forking the repository to your new project, any improvements made to this repo can be integrated into your project using git pull mechanism
+
+### Hints ###
+
+* If you are completing this assessment as part of an application as a senior developer, a simple extract method refactor is not going to impress us
