@@ -1,0 +1,18 @@
+{
+   "BarCode":"bar_code_1",
+   "ItemName":"item_name_1",
+   "PriceRecords":[
+      {
+         "SellingPrice":100,
+         "CurrencyCode":"USD"
+      },
+      {
+         "SellingPrice":1000,
+         "CurrencyCode":"ZAR"
+      },
+      {
+         "SellingPrice":90,
+         "CurrencyCode":"EUR"
+      }
+   ]
+}
