@@ -1,3 +1,8 @@
+# This repo is deprecated #. 
+Please check out https://github.com/realmdigital/interview-address-book
+
+
+
 # Realmdigital Pre-Interview Refactoring #
 
 The code contained herein contains duplication, inconsistencies, implements bad practices and is untestable.
